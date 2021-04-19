@@ -1,0 +1,15 @@
+Namespace(model='bert-base-uncased', pkl_dir='../input/dataset/', pkl_file='bnc.pkl', results_dir='results/bert-bnc/')
+Remaining lemmas: 315
+Noun lemmas: 167
+Verb lemmas: 148
+Error with the following lemmas:
+
+Mean cosine distance when Base=N: 0.12042070113256309
+Mean cosine distance when Base=V: 0.11180869550318329
+Ttest_indResult(statistic=-1.7401157465632948, pvalue=0.08282155706868041)
+Mean noun variation: 8.991639418829054
+Mean verb variation: 9.072921422928099
+Ttest_relResult(statistic=-2.544175370140252, pvalue=0.01143237601526783)
+Mean majority variation: 9.092032468886602
+Mean minority variation: 8.972528372870551
+Ttest_relResult(statistic=3.786155054457196, pvalue=0.00018328137397367176)

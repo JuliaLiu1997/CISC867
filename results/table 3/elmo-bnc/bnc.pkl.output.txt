@@ -1,0 +1,15 @@
+Namespace(model='elmo', pkl_dir='../input/dataset/', pkl_file='bnc.pkl', results_dir='results/elmo-bnc/')
+Remaining lemmas: 315
+Noun lemmas: 167
+Verb lemmas: 148
+Error with the following lemmas:
+
+Mean cosine distance when Base=N: 0.20210883788719858
+Mean cosine distance when Base=V: 0.1640195133718284
+Ttest_indResult(statistic=-3.1075050764027106, pvalue=0.0020597878104782336)
+Mean noun variation: 9.126090911078075
+Mean verb variation: 11.295191639188737
+Ttest_relResult(statistic=-26.08069337502165, pvalue=1.4103087037342712e-80)
+Mean majority variation: 10.0865414029076
+Mean minority variation: 10.334741147359212
+Ttest_relResult(statistic=-1.6846980646128995, pvalue=0.09304044767095962)

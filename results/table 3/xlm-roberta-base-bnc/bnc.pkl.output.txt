@@ -1,0 +1,15 @@
+Namespace(model='xlm-roberta-base', pkl_dir='../input/dataset/', pkl_file='bnc.pkl', results_dir='results/xlm-roberta-base-bnc/')
+Remaining lemmas: 315
+Noun lemmas: 167
+Verb lemmas: 148
+Error with the following lemmas:
+
+Mean cosine distance when Base=N: 0.004277675451632712
+Mean cosine distance when Base=V: 0.004313113721641337
+Ttest_indResult(statistic=0.07002208670270176, pvalue=0.9442207953726376)
+Mean noun variation: 2.041614062067062
+Mean verb variation: 2.3273064738228206
+Ttest_relResult(statistic=-5.884734395048308, pvalue=1.0222932267380316e-08)
+Mean majority variation: 2.210896624459161
+Mean minority variation: 2.158023911430722
+Ttest_relResult(statistic=1.0353380373136343, pvalue=0.30130775810777255)

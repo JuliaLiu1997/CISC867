@@ -1,0 +1,15 @@
+Namespace(pkl_dir='../input/dataset/', pkl_file='bnc.pkl', results_dir='results/mbert-bnc/')
+Remaining lemmas: 315
+Noun lemmas: 167
+Verb lemmas: 148
+Error with the following lemmas:
+
+Mean cosine distance when Base=N: 0.18861137999745903
+Mean cosine distance when Base=V: 0.1639514005667454
+Ttest_indResult(statistic=-2.7515213910034144, pvalue=0.006277595112889551)
+Mean noun variation: 7.168365773700533
+Mean verb variation: 8.338559798588829
+Ttest_relResult(statistic=-21.605220130523588, pvalue=4.512169539778343e-64)
+Mean majority variation: 7.822880307454912
+Mean minority variation: 7.68404526483445
+Ttest_relResult(statistic=1.6324276654720558, pvalue=0.10359180259244051)

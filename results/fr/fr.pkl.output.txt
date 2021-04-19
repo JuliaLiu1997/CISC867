@@ -1,0 +1,15 @@
+Namespace(pkl_dir='data/wiki/processed_udpipe/', pkl_file='fr.pkl', results_dir='results/fr/')
+Remaining lemmas: 243
+Noun lemmas: 107
+Verb lemmas: 136
+Error with the following lemmas:
+
+Mean cosine distance when Base=N: 0.22019328636543778
+Mean cosine distance when Base=V: 0.2109932020744857
+Ttest_indResult(statistic=-0.5753823078184958, pvalue=0.5655695862440746)
+Mean noun variation: 8.16109312807091
+Mean verb variation: 9.437037410068905
+Ttest_relResult(statistic=-14.206206169853049, pvalue=1.0201529082201135e-33)
+Mean majority variation: 9.067059841666202
+Mean minority variation: 8.531070696473613
+Ttest_relResult(statistic=4.594853446730553, pvalue=6.97340721150128e-06)

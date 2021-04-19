@@ -1,0 +1,15 @@
+Namespace(pkl_dir='../input/dataset/', pkl_file='hr.pkl', results_dir='results/hr/')
+Remaining lemmas: 174
+Noun lemmas: 111
+Verb lemmas: 63
+Error with the following lemmas:
+
+Mean cosine distance when Base=N: 0.08470327950812673
+Mean cosine distance when Base=V: 0.1388185308093116
+Ttest_indResult(statistic=3.283499606579253, pvalue=0.0012420264260854807)
+Mean noun variation: 8.163379217016287
+Mean verb variation: 8.103306107137396
+Ttest_relResult(statistic=0.6512533148132794, pvalue=0.5157471140677864)
+Mean majority variation: 8.253358358624338
+Mean minority variation: 8.013326965529343
+Ttest_relResult(statistic=2.6512742657042287, pvalue=0.008763573717704117)
