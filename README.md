@@ -92,4 +92,5 @@ Semantic Metrics for 18 Languages:
 <img src="./results/table/table1.PNG">
 
 Semantic Metrics for 4 Models: 
+
 <img src="./results/table/table2.PNG">
