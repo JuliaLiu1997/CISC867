@@ -13,6 +13,13 @@ git clone https://github.com/attardi/wikiextractor
 pip install wikiextractor
 ```
 
+## Probing test of contextualized model
+```test
+cd reproduction
+python run_mturk_correlations.py
+
+```
+
 ## Datasets
 
 1. Download ud treebanks:
