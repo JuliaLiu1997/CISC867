@@ -1,5 +1,5 @@
 """
-python reproduction/multilingual_bert_contextual.py --pkl_dir data/wiki/processed_udpipe --pkl_file en.pkl --results_dir results/ --model_name bert-base-multilingual-cased 
+python reproduction/model_contextual.py --pkl_dir data/wiki/processed_udpipe --pkl_file en.pkl --results_dir results/ --model_name bert-base-multilingual-cased 
 """
 import numpy as np
 import pandas as pd
