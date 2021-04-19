@@ -89,6 +89,7 @@ python reproduction/model_contextual.py \
 
 2 main results are :
 
-### [Image Classification on ImageNet](https://paperswithcode.com/sota/image-classification-on-imagenet)
+### [Semantic Metrics for 18 Languages](./results/table/table1.PNG)
+### [Semantic Metrics for 4 Models](./results/table/table2.PNG)
 
 
