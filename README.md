@@ -1,10 +1,7 @@
-# CISC867 Reproduction Project
-
 # Original Paper: Word class flexibility: A deep contextualized approach
 
 This repository is the official implementation of "Word class flexibility: A deep contextualized approach" (https://arxiv.org/abs/2009.09241). 
 
->📋  Optional: include a graphic explaining your approach/main result, bibtex entry, link to demos, blog posts and tutorials
 
 ## Requirements
 
