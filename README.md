@@ -88,8 +88,7 @@ python reproduction/model_contextual.py \
 ## Results
 
 2 main results are :
-
-### [Semantic Metrics for 18 Languages](./results/table/table1.PNG)
-### [Semantic Metrics for 4 Models](./results/table/table2.PNG)
-
-
+Semantic Metrics for 18 Languages:
+<img src="./results/table/table1.PNG">
+Semantic Metrics for 4 Models: 
+<img src="./results/table/table2.PNG">
