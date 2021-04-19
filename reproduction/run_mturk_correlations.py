@@ -1,5 +1,5 @@
 # Run CompareEmbeddings notebook for multiple models and layers
-# To run: PYTHONPATH=.. python run_mturk_correlations.py
+# python run_mturk_correlations.py
 import pandas as pd
 import matplotlib
 matplotlib.use('Agg')
