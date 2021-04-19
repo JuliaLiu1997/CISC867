@@ -13,7 +13,7 @@ git clone https://github.com/attardi/wikiextractor
 pip install wikiextractor
 ```
 
-## Probing test of contextualized model
+## Probing test of contextualized model (Optional)
 ```test
 cd reproduction
 python run_mturk_correlations.py
